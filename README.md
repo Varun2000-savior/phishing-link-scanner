@@ -38,9 +38,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 python3 gui_scanner.py
-
-
-
+.
+.
+.
+.
+.
 🧠 Technologies Used
 Python 3.12
 
