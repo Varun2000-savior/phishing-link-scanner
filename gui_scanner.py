@@ -8,7 +8,7 @@ import base64
 import requests
 
 # === VIRUSTOTAL CONFIG ===
-VT_API_KEY = "edb168a21f061562e58e5b8ef74eebb3f1afaa17f180f5aa1492c30919baba7e"
+VT_API_KEY = "YOUR_API_KEY"
 VT_HEADERS = {
     "x-apikey": VT_API_KEY
 }
