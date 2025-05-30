@@ -43,7 +43,7 @@ python3 gui_scanner.py
 .
 .
 .
-🧠 Technologies Used
+Technologies Used
 Python 3.12
 
 Tkinter + ttkbootstrap for GUI
